@@ -9,4 +9,4 @@
 
 Howdy! I'm Nuyu. Please call me Nuyuchi.
 <br><br>
-I'm currently learning React and have used them before. I design using Figma, and am working diligently on creating the website.
+I'm currently learning React and have used them before. I design using Figma, and am working diligently on creating some websites for my school.
