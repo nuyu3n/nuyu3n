@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
 <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
 
-Howdy! I'm Nuyu.
+Howdy! I'm Nuyu. Came for free food. Nice to meet you!
