@@ -1,6 +1,6 @@
 ## Hi
 ![Counter](https://komarev.com/ghpvc/?username=Taiyo-T&style=flat&abbreviated=true)
-<img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
